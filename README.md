@@ -3,7 +3,7 @@
 
 > **How this doc is organized:**
 > - **Part 1 — ⭐ MOST IMPORTANT (LATEST):** Questions from the most recent interview transcripts. These are the freshest, most likely-to-be-asked questions.
-> - **Part 2 — Deep Reference Pool:** Additional questions consolidated from multiple Thinkify prep documents (deduplicated).
+> - **Part 2 — Deep Reference Pool:** Additional questions consolidated from multiple sources documents.
 >
 > Every question has a scenario-based answer + tricky-situation handling.
 
