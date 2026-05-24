@@ -1,4 +1,4 @@
-# 🚀 Flipkart Interview Master Prep — ThinkifyLabs
+# 🚀 Flipkart Interview Master Prep
 ### Frontend Engineer (JavaScript + React + System Design)
 
 > **How this doc is organized:**
